@@ -23,11 +23,10 @@
 
 
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilali8808&show_icons=true&count_private=true&bg_color=0D1117)  
+ [GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilali8808&show_icons=true&count_private=true&bg_color=0D1117)  
+ ![GitHub metrics](https://metrics.lecoq.io/sahilali8808) -->
 
-<!-- ![GitHub metrics](https://metrics.lecoq.io/sahilali8808)  -->
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sahilali8808&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)  
 
-<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sahilali8808&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)  
-
-![Profile views](https://gpvc.arturio.dev/sahilali8808)   -->
+![Profile views](https://gpvc.arturio.dev/sahilali8808)
 
