@@ -18,6 +18,8 @@
 
 <hr>
 
+ ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=sahilali8808&theme=react-dark&hide_border=true&area=true)
+
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sahilali8808&bg_color=0D1117)   -->
 
