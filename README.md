@@ -18,7 +18,7 @@
 
 <hr>
 
- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=sahilali8808&theme=react-dark&hide_border=true&area=true)
+<!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=sahilali8808&theme=react-dark&hide_border=true&area=true)  -->
 
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sahilali8808&bg_color=0D1117)   -->
@@ -45,9 +45,9 @@
 
  [GitHub stats](https://github-readme-stats.vercel.app/api?username=sahilali8808&show_icons=true&count_private=true&bg_color=0D1117)  
  ![GitHub metrics](https://metrics.lecoq.io/sahilali8808) -->
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilali8808&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub streak stats">
-</p>
+</p>  -->
 
 
 
