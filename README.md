@@ -1,5 +1,5 @@
 
-
+<!--
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sahil-ali-a86423206/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -7,12 +7,25 @@
   <a href="https://medium.com/@sahilali">
     <img src="https://img.shields.io/badge/Medium-red?style=for-the-badge&logo=medium&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/SahilAl14403565">
+  <a href="https://twitter.com/Sahilali22">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
    </a><br>
   <img src="https://komarev.com/ghpvc/?username=sahilali8808&style=flat-square&color=blue" alt=""/>
 </div>
+-->
 
+<div id="badges" align="center">
+ <a href="https://github.com/sahilali8808" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+ <a href="https://www.linkedin.com/in/sahilali20/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+ <a href="https://medium.com/@sahilali" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<!--  <img src="https://komarev.com/ghpvc/?username=sahilali8808&style=flat-square&color=blue" alt=""/> -->
+</div>
+
+<h1 align="center">Hey, I'm Sahil !</h1>
+<h5 align="center">Full Stack developer | Ex-Intern Geeksforgeeks | Gold Medalist | SIH’22 Finalist | MERN Stack | Python | C++</h5>
+<h6 align= "center" style="background-color:DodgerBlue;"> I am B.Tech CSE undergrad, Full Stack developer at Blubook Solutions. I have worked on and owned scalable products and have experience with working in a competitive environment. I have a firm hold and experience with several tech stacks like Node.Js, React, React Redux, NextJs, Typescript, React, MongoDB, ExpressJS, and SCSS. I have a keen interest in Data Structures and Algorithms and have solved about 300+ questions on various coding platforms and have a good rating on them. Along with being a quick learner, I like to thrive in fast-paced learning situations.NASA recognized my achievement in discovering an asteroid. I'm an active participant in the Smart India Hackathon 2022. Additionally, I'm a content creator on YouTube, a medium, and a blogger, aiming to share knowledge and inspire others.  
+
+</h6>
 
 
 
