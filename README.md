@@ -23,9 +23,9 @@
 
 <h1 align="center">Hey, I'm Sahil !</h1>
 <h5 align="center">Full Stack developer | Ex-Intern Geeksforgeeks | Gold Medalist | SIH’22 Finalist | MERN Stack | Python | C++</h5>
-<h6 align= "center" style="background-color:DodgerBlue;"> I am B.Tech CSE undergrad, Full Stack developer at Blubook Solutions. I have worked on and owned scalable products and have experience with working in a competitive environment. I have a firm hold and experience with several tech stacks like Node.Js, React, React Redux, NextJs, Typescript, React, MongoDB, ExpressJS, and SCSS. I have a keen interest in Data Structures and Algorithms and have solved about 300+ questions on various coding platforms and have a good rating on them. Along with being a quick learner, I like to thrive in fast-paced learning situations.NASA recognized my achievement in discovering an asteroid. I'm an active participant in the Smart India Hackathon 2022. Additionally, I'm a content creator on YouTube, a medium, and a blogger, aiming to share knowledge and inspire others.  
+<!-- <h6 align= "center" style="background-color:DodgerBlue;"> I am B.Tech CSE undergrad, Full Stack developer at Blubook Solutions. I have worked on and owned scalable products and have experience with working in a competitive environment. I have a firm hold and experience with several tech stacks like Node.Js, React, React Redux, NextJs, Typescript, React, MongoDB, ExpressJS, and SCSS. I have a keen interest in Data Structures and Algorithms and have solved about 300+ questions on various coding platforms and have a good rating on them. Along with being a quick learner, I like to thrive in fast-paced learning situations.NASA recognized my achievement in discovering an asteroid. I'm an active participant in the Smart India Hackathon 2022. Additionally, I'm a content creator on YouTube, a medium, and a blogger, aiming to share knowledge and inspire others.  
 
-</h6>
+</h6> -->
 
 
 
